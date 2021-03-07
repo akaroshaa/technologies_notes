@@ -2247,7 +2247,7 @@ Post.objects.all().order_by('-views')[:3]
 
 Create an account on heroku. Install heroku CLI from its website
 
-Set up the environment varianbles :
+Set up the environment variables :
 
 In system variables, use "C:\Program Files\heroku\bin"
  
